@@ -6,7 +6,9 @@ Whatever your strategy, these are the first steps to apply before moving forward
 ## Admin settings
 
 Power Platform Admin center has few settings that you should assess and update quickly to reflect your strategy
-![Power Platform Admin Settings]/(./media/PowerPlatformAdminSettings.png)
+
+![Power Platform Admin Settings](./media/PowerPlatformAdminSettings.png)
+
 | Setting | Default Value | Recommended | Recommendation Reason |
 | --- | --- | --- | --- |
 | Who can create production and sanbox environments | Everyone | Only Specific admins | Each of these environments will consumme a minimum of 1 GB of database storage. Keeping default setting can quickly consumme all your available storage. |
