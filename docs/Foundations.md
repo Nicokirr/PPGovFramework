@@ -7,10 +7,10 @@ Whatever your strategy, these are the first steps to apply before moving forward
 
 Power Platform Admin center has few settings that you should assess and update quickly to reflect your strategy
 ![Power Platform Admin Settings]/(/docs/media/PowerPlatformAdminSettings.png)
-Setting | Default Value | Recommended | Recommendation Reason
-Who can create production and sanbox environments | Everyone | Only Specific admins | Each of these environments will consumme a minimum of 1 GB of database storage. Keeping default setting can quickly consumme all your available storage.
-Who can create trial environments | Everyone | Everyone | Trials do not consume any storage, and can easily be submitted to the same restrictions (DLP) as the default environment. We do not see significant risk to keep default setting. However, some organization will prefer to force users to request trials through IT. They will change this setting, and that's fine too.
-Who can allocate add-on capacity to environments | Everyone | Only Specific admins | Typical deployment strategies delegate environement administration to multiple admins. Restricting capacity allocation will ensure central administration stays in control of purchased add-ons.
+| Setting | Default Value | Recommended | Recommendation Reason
+| Who can create production and sanbox environments | Everyone | Only Specific admins | Each of these environments will consumme a minimum of 1 GB of database storage. Keeping default setting can quickly consumme all your available storage.
+| Who can create trial environments | Everyone | Everyone | Trials do not consume any storage, and can easily be submitted to the same restrictions (DLP) as the default environment. We do not see significant risk to keep default setting. However, some organization will prefer to force users to request trials through IT. They will change this setting, and that's fine too.
+| Who can allocate add-on capacity to environments | Everyone | Only Specific admins | Typical deployment strategies delegate environement administration to multiple admins. Restricting capacity allocation will ensure central administration stays in control of purchased add-ons.
 
 ## Self service capabilities
 
