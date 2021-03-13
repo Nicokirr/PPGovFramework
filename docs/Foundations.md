@@ -7,7 +7,7 @@ Whatever your strategy, these are the first steps to apply before moving forward
 
 Power Platform Admin center has few settings that you should assess and update quickly to reflect your strategy
 
-![Power Platform Admin Settings]/(https://octodex.github.com/images/yaktocat.png)
+![Power Platform Admin Settings](./media/PowerPlatformAdminSettings.png)
 
 | Setting | Default Value | Recommended | Recommendation Reason |
 | --- | --- | --- | --- |
