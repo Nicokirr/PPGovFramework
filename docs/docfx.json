@@ -1,0 +1,56 @@
+{
+    "build": {
+      "content": [
+        {
+          "files": [
+            "**/*.md",
+            "**/*.yml"
+          ],
+          "exclude": [
+            "**/obj/**",
+            "**/includes/**",
+            "_themes/**",
+            "_themes.pdf/**",
+            "README.md",
+            "LICENSE",
+            "LICENSE-CODE",
+            "ThirdPartyNotices"
+          ]
+        }
+      ],
+      "resource": [
+        {
+          "files": [
+            "**/*.png",
+            "**/*.svg",
+            "**/*.jpg",
+            "**/*.gif"
+          ],
+          "exclude": [
+            "**/obj/**",
+            "**/includes/**",
+            "_themes/**",
+            "_themes.pdf/**"
+          ]
+        }
+      ],
+      "overwrite": [],
+      "externalReference": [],
+      "globalMetadata": {
+        "contributors_to_exclude": [
+          ""
+        ],
+        "titleSuffix": "Title Suffix PowerPlatform",
+        "feedback_system": "GitHub",
+        "feedback_github_repo": "nicokirr/PPGovFramework"
+      },
+      "fileMetadata": {
+        "searchScope": {
+          "**.*": [ "Power Apps", "Power Automate", "Power BI", "Power Platform" ]
+        }
+      },
+      "template": [],
+      "dest": "power-platform",
+      "markdownEngineName": "markdig"
+    }
+  }
