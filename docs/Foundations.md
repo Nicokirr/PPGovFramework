@@ -4,7 +4,6 @@ nav: Foundations
 description: >
     The goal of this page is to help admins getting started.
     Whatever your strategy, these are the first steps to apply before moving forward.
-youtubeid: moJgWrD6dwg
 ---
 
 ## Admin settings

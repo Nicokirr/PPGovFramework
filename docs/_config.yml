@@ -7,3 +7,7 @@ description : "A set of best practice to master the governance of Power Platform
 # Build settings
 # theme: jekyll-theme-minimal
 theme: minimal
+
+header_pages:
+  - Foundations.md
+  - PilarsOfSuccess.md
