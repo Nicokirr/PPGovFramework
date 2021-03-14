@@ -22,10 +22,10 @@ Power Platform Admin center has few settings that you should assess and update q
 
 Power Platform propose some **self-service** capabilities that individuals can use without asking their organization. Changing these settings requires admin actions using PowerShell command lines.
 
-| Capability | What it means | Setting name | Can target specific products | Default Value | How to change it |
-| --- | --- | --- | --- | --- | --- |
-| Trials | Individuals can **try** some of Power Platform capabilites | AllowAdHocSubscriptions | NO - This setting applies to **all** Microsoft cloud-based apps and services | true  | [Enable or disable self-service sign-up for your organization](https://docs.microsoft.com/en-us/powershell/module/msonline/set-msolcompanysettings?view=azureadps-1.0#parameters) |
-| Self Purchase | Individuals can **buy** Power Platform licenses | AllowSelfServicePurchase | YES - Command can run on all products, or specific ones | It depends. [View a list of self-service purchase products and status](https://docs.microsoft.com/en-us/microsoft-365/commerce/subscriptions/allowselfservicepurchase-powershell?view=o365-worldwide#view-a-list-of-self-service-purchase-products-and-their-status)  |  [Set the status for AllowSelfServicePurchase](https://docs.microsoft.com/en-us/microsoft-365/commerce/subscriptions/allowselfservicepurchase-powershell?view=o365-worldwide#view-or-set-the-status-for-allowselfservicepurchasen) |
+| Capability | Setting name | Can target specific products | Default Value | How to change it |
+| --- | --- | --- | --- | --- |
+| Trials - Individuals can **try** some of Power Platform capabilites | AllowAdHocSubscriptions | NO - This setting applies to **all** Microsoft cloud-based apps and services | true  | [Enable or disable self-service sign-up for your organization](https://docs.microsoft.com/en-us/powershell/module/msonline/set-msolcompanysettings?view=azureadps-1.0#parameters) |
+| Self Purchase - Individuals can **buy** Power Platform licenses | AllowSelfServicePurchase | YES - Command can run on all products, or specific ones | It depends. [View a list of self-service purchase products and status](https://docs.microsoft.com/en-us/microsoft-365/commerce/subscriptions/allowselfservicepurchase-powershell?view=o365-worldwide#view-a-list-of-self-service-purchase-products-and-their-status)  |  [Set the status for AllowSelfServicePurchase](https://docs.microsoft.com/en-us/microsoft-365/commerce/subscriptions/allowselfservicepurchase-powershell?view=o365-worldwide#view-or-set-the-status-for-allowselfservicepurchasen) |
 
 ## Default Connectivity
 
