@@ -1,10 +1,11 @@
 ---
-#
+title: Foundations
+nav: Foundations
+description: >
+    The goal of this page is to help admins getting started.
+    Whatever your strategy, these are the first steps to apply before moving forward.
+youtubeid: moJgWrD6dwg
 ---
-# FOUNDATIONS
-
-The goal of this page is to help admins getting started with basic governance actions.
-Whatever your strategy, these are the first steps to apply before moving forward.
 
 ## Admin settings
 

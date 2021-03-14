@@ -5,5 +5,4 @@ author :
 description : "A set of best practice to master the governance of Power Platform in your organization !"
 
 # Build settings
-# remote_theme : jekyll/minima
-theme: jekyll-theme-cayman
+theme: jekyll/minima
