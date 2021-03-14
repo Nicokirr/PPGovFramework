@@ -1,3 +1,6 @@
+---
+---
+
 # Power Platform Governance Framework
 
 **Governance** is one of the most discussed topics around PowerPlatform, and the key driver to a successfull use of low code in your organization.
