@@ -1,3 +1,6 @@
+---
+#
+---
 # SECURITY
 
 Security ensures a controlled and managed usage of the platform, protecting company data

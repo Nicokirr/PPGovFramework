@@ -1,3 +1,6 @@
+---
+#
+---
 # FOUNDATIONS
 
 The goal of this page is to help admins getting started with basic governance actions.
