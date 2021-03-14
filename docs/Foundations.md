@@ -27,8 +27,8 @@ Power Plaftorm propose some **self-service** capabilities that individuals can u
 
 Power Platform includes hundreds of connectors. Limiting connectors available by default is a good practice. The easiest way to do this is to create a DLP that will apply to all your environemnts, except some used by experienced and trained individuals. This will ensure that :
 
-- Default environment, where everyone can create things, is restricted to low risk and easy to use connectors (for example, those using Office 365 data)
-- **Any** new environment will automaticaly have be submited to this DLP. This includes any type of environments (trials, developer, etc)
+- **Default** environment, where everyone can create things, is restricted to low risk and easy to use connectors (for example, those using Office 365 data)
+- **Any new** environment will automaticaly have be submited to this DLP. This includes any type of environments (trials, developer, etc)
 To help you build the DLP that best suits your needs, you can discover connectors and even slice and dice them based on their properties in [this report](https://aka.ms/ppc)
 
 ## Cross tenant connectivity
