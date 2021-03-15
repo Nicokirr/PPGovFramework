@@ -1,34 +1,34 @@
 # main links
 main:
   - title: "Foundations"
-    url: /docs/Foundations/
+    url: /foundations/
   - title: "Build your Path"
-    url: /docs/BuildYourRoadmap/
+    url: /buildyourroadmap/
   - title: "5 pillars"
-    url: /docs/PillarsOfSuccess/
+    url: /pillars/
 
 # documentation links
 docs:
   - title: Insights
     children:
       - title: "Foundations"
-        url: /docs/foundations/
+        url: /foundations/
       - title: "Paths"
-        url: /docs/adoptionpath/
+        url: /adoptionpath/
   - title: Structure
     children:
       - title: "Configuration"
-        url: /docs/configuration/
+        url: /configuration/
       - title: "Program Management"
-        url: /docs/programmanagement/
+        url: /programmanagement/
       - title: "Technical Guidance"
-        url: /docs/techguidance/
+        url: /techguidance/
       - title: "Security"
-        url: /docs/security/
+        url: /security/
       - title: "Makers Enablement"
-        url: /docs/makersenablement/
+        url: /makersenablement/
       - title: "Data & AI"
-        url: /docs/dataai/
+        url: /dataai/
   - title: Content
     children:
       - title: "Working with Posts"

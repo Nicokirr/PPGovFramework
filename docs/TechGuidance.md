@@ -1,6 +1,6 @@
 ---
 title: Technical Guidance
-permalink: /docs/techguidance/
+permalink: /techguidance/
 excerpt: >
     Tech guidance ensures Technical best practices are followed across the platform, with a goal to reduce efforts to create and maintain low code items.
 toc: true

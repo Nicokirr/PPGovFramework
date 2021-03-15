@@ -1,6 +1,6 @@
 ---
 title: Security
-permalink: /docs/security/
+permalink: /security/
 excerpt: >
     Security ensures a controlled and managed usage of the platform, protecting company data.
 toc: true

@@ -1,6 +1,6 @@
 ---
 title: ADOPTION PATHS
-permalink: /docs/foundations/
+permalink: /foundations/
 excerpt: >
     Building your adoption path is finding the right balance of actions to enable citizen and pro dev to build on the platform.
 ---

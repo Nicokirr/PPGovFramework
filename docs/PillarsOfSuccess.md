@@ -1,10 +1,10 @@
 ---
 title: Pillars of success
-nav: 5 pillars
-description: >
+permalink: /pillars/
+excerpt: >
     The goal of this page is detail typical actions organization should look at when deploying Power Platform.
+toc: true
 ---
-
 
 [Program Management](ProgramManagement.md)
 [Technical Guidance](TechGuidance.md)
