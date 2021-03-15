@@ -1,6 +1,6 @@
 ---
 title: Makers Enablement
-permalink: /makersenablement/
+permalink: /pillars/makersenablement/
 excerpt: >
     Makers enablement defines all touch points with makers (both citizen dev & pro dev), using content define by other pillars.
 toc: true

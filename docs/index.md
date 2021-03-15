@@ -1,7 +1,7 @@
 ---
 title: Power Platform Governance Framework
 excerpt: "Starting page"
-toc: true
+layout: splash
 ---
 
 **Governance** is one of the most discussed topics around PowerPlatform, and the key driver to a successful use of low code in your organization.

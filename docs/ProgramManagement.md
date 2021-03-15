@@ -1,6 +1,6 @@
 ---
 title: Program Management
-permalink: /programmanagement/
+permalink: /pillars/programmanagement/
 excerpt: >
     Program management defines low code strategy, maximizing business value while enforcing best practices (service security and compliance.
 toc: true

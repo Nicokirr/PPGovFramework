@@ -3,7 +3,7 @@ main:
   - title: "Foundations"
     url: /foundations/
   - title: "Build your Path"
-    url: /buildyourroadmap/
+    url: /adoptionpath/
   - title: "5 pillars"
     url: /pillars/
 
@@ -20,15 +20,15 @@ docs:
       - title: "Configuration"
         url: /configuration/
       - title: "Program Management"
-        url: /programmanagement/
+        url: /pillars/programmanagement/
       - title: "Technical Guidance"
-        url: /techguidance/
+        url: /pillars/techguidance/
       - title: "Security"
-        url: /security/
+        url: /pillars/security/
       - title: "Makers Enablement"
-        url: /makersenablement/
+        url: /pillars/makersenablement/
       - title: "Data & AI"
-        url: /dataai/
+        url: /pillars/dataai/
   - title: Content
     children:
       - title: "Working with Posts"
