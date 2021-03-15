@@ -11,6 +11,8 @@ main:
 docs:
   - title: GETTING STARTED
     children:
+      - title: "Introduction"
+        url: /intro/
       - title: "Foundations"
         url: /foundations/
   - title: ENVISION
@@ -19,7 +21,7 @@ docs:
         url: /adoptionpath/
   - title: STRUCTURE
     children:
-      - title: " "
+      - title: "Overview"
         url: /pillars/
       - title: "Program Management"
         url: /pillars/programmanagement/
