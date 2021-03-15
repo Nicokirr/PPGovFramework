@@ -1,5 +1,8 @@
 ---
-#
+title: Low Code Velocity Index
+permalink: /velocity/
+excerpt: >
+    excerpt
 ---
 
-# Low Code Velocity Index
+Velocity is all about ...

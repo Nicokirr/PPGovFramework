@@ -8,6 +8,9 @@ author_profile: false
 toc: true
 ---
 
+The goal of this page is to help admins getting started.
+Whatever your strategy, these are the first steps to apply before moving forward.
+
 ## Admin settings
 
 Power Platform Admin center has few settings that you should assess and update quickly to reflect your strategy
@@ -24,10 +27,10 @@ Power Platform Admin center has few settings that you should assess and update q
 
 Power Platform propose some **self-service** capabilities that individuals can use without asking their organization. Changing these settings requires admin actions using PowerShell command lines.
 
-| Capability | Setting name | Can target specific products | Default Value | How to change it |
-| --- | --- | --- | --- | --- |
-| Trials - Individuals can **try** some capabilites | AllowAdHocSubscriptions | NO - This setting applies to **all** Microsoft cloud-based apps and services | true  | [Enable or disable self-service sign-up for your organization](https://docs.microsoft.com/en-us/powershell/module/msonline/set-msolcompanysettings?view=azureadps-1.0#parameters) |
-| Self Purchase - Individuals can **buy** licenses | AllowSelfServicePurchase | YES - Command can run on all products, or specific ones | It depends. [View a list of self-service purchase products and status](https://docs.microsoft.com/en-us/microsoft-365/commerce/subscriptions/allowselfservicepurchase-powershell?view=o365-worldwide#view-a-list-of-self-service-purchase-products-and-their-status)  |  [Set the status for AllowSelfServicePurchase](https://docs.microsoft.com/en-us/microsoft-365/commerce/subscriptions/allowselfservicepurchase-powershell?view=o365-worldwide#view-or-set-the-status-for-allowselfservicepurchasen) |
+| Setting | Can target specific products | Default Value | How to change it |
+| --- | --- | --- | --- |
+| AllowAdHocSubscriptions - Individuals can **try** some capabilites | NO - This setting applies to **all** Microsoft cloud-based apps and services | true  | [Enable or disable self-service sign-up for your organization](https://docs.microsoft.com/en-us/powershell/module/msonline/set-msolcompanysettings?view=azureadps-1.0#parameters) |
+| AllowSelfServicePurchase - Individuals can **buy** licenses | YES - Command can run on all products, or specific ones | It depends. [View a list of self-service purchase products and status](https://docs.microsoft.com/en-us/microsoft-365/commerce/subscriptions/allowselfservicepurchase-powershell?view=o365-worldwide#view-a-list-of-self-service-purchase-products-and-their-status)  |  [Set the status for AllowSelfServicePurchase](https://docs.microsoft.com/en-us/microsoft-365/commerce/subscriptions/allowselfservicepurchase-powershell?view=o365-worldwide#view-or-set-the-status-for-allowselfservicepurchasen) |
 
 ## Default Connectivity
 

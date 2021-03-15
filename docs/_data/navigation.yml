@@ -9,15 +9,17 @@ main:
 
 # documentation links
 docs:
-  - title: Insights
+  - title: GETTING STARTED
     children:
       - title: "Foundations"
         url: /foundations/
+  - title: ENVISION
+    children:
       - title: "Paths"
         url: /adoptionpath/
-  - title: Structure
+  - title: STRUCTURE
     children:
-      - title: "Working with "
+      - title: " "
         url: /pillars/
       - title: "Program Management"
         url: /pillars/programmanagement/
@@ -29,3 +31,8 @@ docs:
         url: /pillars/makersenablement/
       - title: "Data & AI"
         url: /pillars/dataai/
+  - title: ASSESS
+    children:
+      - title: "Low-Code Velocity "
+        url: /velocity/
+  - title: REFERENCES
