@@ -112,6 +112,8 @@ defaults:
       author_profile: false
       read_time: true
       show_date: true
+      sidebar:
+        nav: "docs"
 
 category_archive:
   type: liquid

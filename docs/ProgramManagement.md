@@ -4,8 +4,6 @@ permalink: /pillars/programmanagement/
 excerpt: >
     Program management defines low code strategy, maximizing business value while enforcing best practices (service security and compliance.
 classes: wide
-sidebar:
-    nav: "docs"
 ---
 
 Program management defines low code strategy, maximizing business value while enforcing best practices (service security and compliance)
