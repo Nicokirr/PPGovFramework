@@ -1,6 +1,6 @@
 ---
-title: Power Platform Governance Framework
-permalink: /get-started/intro/
+title: Introduction
+permalink: /intro/
 excerpt: "Starting page"
 ---
 

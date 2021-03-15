@@ -12,13 +12,15 @@ docs:
   - title: GET STARTED
     children:
       - title: "Introduction"
-        url: /get-started/intro/
+        url: /intro/
       - title: "Foundations"
-        url: /get-started/foundations/
+        url: /foundations/
   - title: ENVISION
     children:
-      - title: "Paths"
+      - title: "Adotion Paths"
         url: /adoptionpath/
+      - title: "Maturity Scale"
+        url: /maturityscale/
   - title: STRUCTURE
     children:
       - title: "Overview"
