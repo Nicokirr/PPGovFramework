@@ -1,9 +1,10 @@
 ---
 title: Foundations
-nav: Foundations
-description: >
+permalink: /docs/foundations/
+excerpt: >
     The goal of this page is to help admins getting started.
     Whatever your strategy, these are the first steps to apply before moving forward.
+toc: true
 ---
 
 ## Admin settings
