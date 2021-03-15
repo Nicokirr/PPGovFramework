@@ -1,7 +1,11 @@
 ---
-#
+title: Data and AI
+permalink: /docs/dataai/
+excerpt: >
+    Data Management defines and controls WHO can use WHICH data with low code tools.  
+    This evolves over time following users and organization maturity or demand.
+toc: true
 ---
-# DATA & AI
 
 Data Management defines and controls WHO can use WHICH data with low code tools.  
 This evolves over time following users and organization maturity or demand

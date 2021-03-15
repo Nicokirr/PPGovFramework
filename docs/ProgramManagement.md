@@ -1,7 +1,10 @@
 ---
-#
+title: Program Management
+permalink: /docs/programmanagement/
+excerpt: >
+    Program management defines low code strategy, maximizing business value while enforcing best practices (service security and compliance.
+toc: true
 ---
-# PROGRAM MANAGEMENT
 
 Program management defines low code strategy, maximizing business value while enforcing best practices (service security and compliance)
 

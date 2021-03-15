@@ -1,9 +1,12 @@
 ---
-#
+title: Technical Guidance
+permalink: /docs/techguidance/
+excerpt: >
+    Tech guidance ensures Technical best practices are followed across the platform, with a goal to reduce efforts to create and maintain low code items.
+toc: true
 ---
-# TECHNICAL GUIDANCE
 
-Tech guidance ensures Technical best practices are followed accros the platform, with a goal to reduce efforts to create and maintain low code items.
+Tech guidance ensures Technical best practices are followed across the platform, with a goal to reduce efforts to create and maintain low code items.
 
 | Theme | Activity | **Why** you should work on this activity | **How** you can start |
 | --- | --- | --- | --- |

@@ -6,3 +6,56 @@ main:
     url: /docs/BuildYourRoadmap/
   - title: "5 pillars"
     url: /docs/PillarsOfSuccess/
+
+# documentation links
+docs:
+  - title: Insights
+    children:
+      - title: "Foundations"
+        url: /docs/foundations/
+      - title: "Paths"
+        url: /docs/adoptionpath/
+  - title: Structure
+    children:
+      - title: "Configuration"
+        url: /docs/configuration/
+      - title: "Program Management"
+        url: /docs/programmanagement/
+      - title: "Technical Guidance"
+        url: /docs/techguidance/
+      - title: "Security"
+        url: /docs/security/
+      - title: "Makers Enablement"
+        url: /docs/makersenablement/
+      - title: "Data & AI"
+        url: /docs/dataai/
+  - title: Content
+    children:
+      - title: "Working with Posts"
+        url: /docs/posts/
+      - title: "Working with Pages"
+        url: /docs/pages/
+      - title: "Working with Collections"
+        url: /docs/collections/
+      - title: "Helpers"
+        url: /docs/helpers/
+      - title: "Utility Classes"
+        url: /docs/utility-classes/
+  - title: Extras
+    children:
+      - title: "Stylesheets"
+        url: /docs/stylesheets/
+      - title: "JavaScript"
+        url: /docs/javascript/
+  - title: Meta
+    children:
+      - title: "History"
+        url: /docs/history/
+      - title: "Contributing"
+        url: /docs/contributing/
+      - title: "Old 2.2 Docs"
+        url: /docs/docs-2-2/
+      - title: "License"
+        url: /docs/license/
+      - title: "Terms &amp; Privacy Policy"
+        url: /terms/

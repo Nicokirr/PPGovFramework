@@ -1,7 +1,10 @@
 ---
-#
+title: Security
+permalink: /docs/security/
+excerpt: >
+    Security ensures a controlled and managed usage of the platform, protecting company data.
+toc: true
 ---
-# SECURITY
 
 Security ensures a controlled and managed usage of the platform, protecting company data
 
