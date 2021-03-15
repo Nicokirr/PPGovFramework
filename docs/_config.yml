@@ -5,21 +5,26 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-locale: "en"
-title: Power Platform Governance Framework
-subtitle: Work in progress...
-description: >- # this means to ignore newlines until "baseurl:"
-  A set of best practice to master the governance of Power Platform in your organization !.
-twitter_username: username
-github_username: nicokirr
-minimal_mistakes_skin: default
-search: true
+locale                   : "en-US"
+title                    : "PP Governance Framework"
+title_separator          : "-"
+subtitle                 : Work in progress... # site tagline that appears below site title in masthead
+name                     : "Nicolas Kirrmann"
+description              : "A set of best practice to master the governance of Power Platform in your organization !."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
 
 # Build settings
 markdown: kramdown
@@ -94,7 +99,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      words_per_minute: 200
       show_date: true
       comments: true
       share: true
@@ -107,7 +111,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      words_per_minute: 200
       show_date: true
 
 category_archive:
