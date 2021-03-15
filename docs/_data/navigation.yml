@@ -17,8 +17,8 @@ docs:
         url: /adoptionpath/
   - title: Structure
     children:
-      - title: "Configuration"
-        url: /configuration/
+      - title: "Working with "
+        url: /pillars/
       - title: "Program Management"
         url: /pillars/programmanagement/
       - title: "Technical Guidance"
