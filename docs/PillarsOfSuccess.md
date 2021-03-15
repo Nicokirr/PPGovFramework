@@ -1,13 +1,14 @@
 ---
-title: Pillars of success
+title: Structure
 permalink: /pillars/
 excerpt: >
     The goal of this page is detail typical actions organization should look at when deploying Power Platform.
-toc: true
 ---
 
-[Program Management](ProgramManagement.md)
-[Technical Guidance](TechGuidance.md)
-[Makers Enablement](MakersEnablement.md)
-[Security](Security.md)
-[Data](DataAI.md)
+To help you build your own
+
+    1.[Program Management](ProgramManagement.md)
+    1.[Technical Guidance](TechGuidance.md)
+    1.[Makers Enablement](MakersEnablement.md)
+    1.[Security](Security.md)
+    1.[Data](DataAI.md)

@@ -9,12 +9,12 @@ main:
 
 # documentation links
 docs:
-  - title: GETTING STARTED
+  - title: GET STARTED
     children:
       - title: "Introduction"
-        url: /intro/
+        url: /get-started/intro/
       - title: "Foundations"
-        url: /foundations/
+        url: /get-started/foundations/
   - title: ENVISION
     children:
       - title: "Paths"

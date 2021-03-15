@@ -7,7 +7,7 @@ excerpt: >
 
 Tech guidance ensures Technical best practices are followed across the platform, with a goal to reduce efforts to create and maintain low code items.
 
-| Theme | Activity | **Why** you should work on this activity | **How** you can start |
+| Theme | Activity | WHY it matters | HOW you can start |
 | --- | --- | --- | --- |
 | Architecture | Env archi guidance citizen | Clarify **citizen** access to different environments | Define rules to create environments for citizen developers. As environments are related to connector control through DLP, a good approach is to have at least one environment per citizen dev maturity / training. |
 | Architecture | Env archi guidance pro dev | Clarify **pro dev** access to different environments | Define rules to create environments for pro developers. To avoid governance challenges within an environment, it is currently recommended to have few environments dedicated for each “pro dev” team. Define when projects should use mutualized environments, and based on which criteria. |

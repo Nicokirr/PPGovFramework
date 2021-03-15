@@ -3,12 +3,11 @@ title: Security
 permalink: /pillars/security/
 excerpt: >
     Security ensures a controlled and managed usage of the platform, protecting company data.
-toc: true
 ---
 
 Security ensures a controlled and managed usage of the platform, protecting company data
 
-| Theme | Activity | WHY its important | HOW you can start |
+| Theme | Activity | WHY its matters | HOW you can start |
 | --- | --- | --- | --- |
 | Platform | Platform validation | Allow **basic & controlled** usage of Power Platform in the company | **Validate O365** usage in default environment **for all**. Implement a **DLP** in default env and any new environment (except env managed), that **enforce the default** list established by the data stream. **Configure tenant** (trial access, environment creation, resource allocation, etc.) |
 | Platform | Connector security assessment & rating | Allow **more connectivity** while staying in **control** | Define a **criticity scale** for connectors with generic criterias (for example, authentication mechanism used). Then map connectors on this scale. Regularly review the mapping (for new, custom and updated connectors). |

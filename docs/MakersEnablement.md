@@ -3,12 +3,11 @@ title: Makers Enablement
 permalink: /pillars/makersenablement/
 excerpt: >
     Makers enablement defines all touch points with makers (both citizen dev & pro dev), using content define by other pillars.
-toc: true
 ---
 
 Makers enablement defines all touch points with makers (both citizen dev & pro dev), using content define by other pillars
 
-| Theme | Activity | **Why** you should work on this activity | **How** you can start |
+| Theme | Activity | WHY it matters | HOW you can start |
 | --- | --- | --- | --- |
 | Training | Discovery training | Ensure **minimum knowledge baseline** across makers. Create a good start experience.| Provide regular & internal trainings on basic low code capabilities. (App in a day, Bot in a day, etc) |
 | Training | Certification program | Generate **more valuable innovation** through increased awareness of platform capabilities | Build an internal certification program (skills and # of people). |

@@ -4,13 +4,13 @@ permalink: /pillars/dataai/
 excerpt: >
     Data Management defines and controls WHO can use WHICH data with low code tools.  
     This evolves over time following users and organization maturity or demand.
-toc: true
+classes: wide
 ---
 
 Data Management defines and controls WHO can use WHICH data with low code tools.  
 This evolves over time following users and organization maturity or demand
 
-| Theme | Activity | **Why** you should work on this activity | **How** you can start |
+| Theme | Activity | WHY it matters | HOW you can start |
 | --- | --- | --- | --- |
 | External data (standard) | Default Connectors | Create a **baseline** for data usage | Define **minimum viable list of connectors** that any citizen developer can use. |
 | External data (standard) | Dataverse for Teams | Manage efficiently relational data | Detect usage of Dataverse for Teams, clean unused envs, and make sure environments are used for the right use cases by asking for business justification. |
