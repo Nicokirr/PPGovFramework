@@ -6,11 +6,11 @@ excerpt: >
 ---
 
 Program management defines low code strategy, maximizing business value while encouraging and sometimes enforcing best practices.
-Key items of a successful program management include : 
-1.Culture :
-2.Monitoring : 
-3.Value Management: 
-4.Policies : 
+Key items of a successful program management include :
+    1.Culture :
+    1.Monitoring :
+    1.Value Management:
+    1.Policies :
 
 | Theme | Activity | WHY it matters | HOW you can start |
 | --- | --- | --- | --- |
